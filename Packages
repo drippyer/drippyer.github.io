@@ -1,17 +1,16 @@
 Package: me.drippyer.btnotify
-Name: BTNotify
 Version: 0.0.1-27+debug
 Architecture: iphoneos-arm
-Description: Notification when a bluetooth device (dis)connects!
-Depiction: 
 Maintainer: drippyer <drippyer@gmail.com>
-Author: drippyer <drippyer@gmail.com>
-Section: Tweaks
+Installed-Size: 340
 Depends: mobilesubstrate, com.cokepokes.libnotifications, ws.hbang.common (>= 1.15)
 Filename: debs/me.drippyer.btnotify_0.0.1-27+debug_iphoneos-arm.deb
-Size: 
-Installed-Size: 
-MD5sum: 
-SHA1: 
-SHA256: 
+Size: 24458
+MD5sum: dfe01cbc2a182a0a1ae5cdcd1bfbe29e
+SHA1: dce54decddc7bbb025e46e8a6fe475d9d3c63494
+SHA256: cccfabd19670e2d393ea34969aefc2e4db079d1b74492552a4321288da8e42df
+Section: Tweaks
+Description: Notification when a bluetooth device (dis)connects!
+Author: drippyer <drippyer@gmail.com>
+Name: BTNotify
 
