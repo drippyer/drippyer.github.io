@@ -1,2 +1,5 @@
 Packages_OLD
 .DS_Store
+dpkg-gettext.pl
+dpkg-scanpackages
+Steps_to_Add_Packages.txt
