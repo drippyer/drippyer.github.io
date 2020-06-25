@@ -1,4 +1,4 @@
-Origin: drippyer_orgin
+Origin: drippyer's repo
 Label: drippyer's repo
 Suite: stable
 Version: 1.0
@@ -6,4 +6,3 @@ Codename: ios
 Architectures: iphoneos-arm
 Components: main
 Description: drippyer_desc
-Icon: file://repo_icon.png
